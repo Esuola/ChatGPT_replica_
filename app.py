@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 import os
 import shelve
 
-load_dotenv()
+# load_dotenv()
 
-st.title("Streamlit Chatbot Interface")
+st.title("Chatgpt_Replica")
 
 USER_AVATAR = "👤"
 BOT_AVATAR = "🤖"
